@@ -1,8 +1,6 @@
 const request = require('request')
 
 var APIkey = 'b7ad6d7209464e3102539908d412d5fe'
-var lng = -76.9318152
-var lat = 38.9981032
 
 var geocodeAddress = (address, callback) =>{
     
